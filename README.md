@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Chatbot Dev,Blockchain Dev,Map integration in Mobile Apps**
 
-- 👨‍💻 All of my projects are available at [https://justinebarasa.github.io/Brasa-Portfolio](https://justinebarasa.github.io/Brasa-Portfolio)
+- 👨‍💻 All of my projects are available at [https://justinebarasa.github.io/Barasa-Portfolio/] ([https://justinebarasa.github.io/Barasa-Portfolio/)
 
 - 💬 Ask me about **AI, Mobile Application Dev, WebDev and DevOps**
 
